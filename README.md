@@ -9,7 +9,7 @@ This project simulates a **assistant** capable of reasoning, using tools, and ha
 
 - LangGraph-based AI agent architecture
 - Tool calling system (Add, Subtract, Multiply, Divide)
-- Groq LLM integration for reasoning
+- LLM integration for reasoning
 - Stateful multi-turn conversation memory
 - Conditional routing (tool vs direct response)
 - Modular and extendable design
