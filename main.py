@@ -77,7 +77,7 @@ memory = MemorySaver()
 config = {'configurable':{"thread_id":"1"}}
 app = graph.compile(checkpointer=memory)
 
-print("---------------calculater started--------------------\n\n")
+print("---------------started-------------------\n\n")
 
 while True:
     user_input = input('user: ')
