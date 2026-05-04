@@ -46,7 +46,7 @@ git clone https://github.com/DULAKSHANA404/Multi-Tool-AI-Agent-System-with-LangG
 ### 2. Create a .env file in the root directory of the project and add your Groq API key:
 
 - GROQ_API=your_groq_api_key_here
-- 
+ 
 ### 3. Open a terminal/command prompt in the directory where `main.py` is located.
 
  - Run the script:
